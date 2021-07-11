@@ -1,0 +1,16 @@
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\bin\Debug\net5.0\stringFormat.exe
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\bin\Debug\net5.0\stringFormat.deps.json
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\bin\Debug\net5.0\stringFormat.runtimeconfig.json
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\bin\Debug\net5.0\stringFormat.runtimeconfig.dev.json
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\bin\Debug\net5.0\stringFormat.dll
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\bin\Debug\net5.0\ref\stringFormat.dll
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\bin\Debug\net5.0\stringFormat.pdb
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\obj\Debug\net5.0\stringFormat.csproj.AssemblyReference.cache
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\obj\Debug\net5.0\stringFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\obj\Debug\net5.0\stringFormat.AssemblyInfoInputs.cache
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\obj\Debug\net5.0\stringFormat.AssemblyInfo.cs
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\obj\Debug\net5.0\stringFormat.csproj.CoreCompileInputs.cache
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\obj\Debug\net5.0\stringFormat.dll
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\obj\Debug\net5.0\ref\stringFormat.dll
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\obj\Debug\net5.0\stringFormat.pdb
+C:\Users\jorda\OneDrive\Desktop\blogMarkdown\cSharp\gettingStartedWithC#\stringFormat\obj\Debug\net5.0\stringFormat.genruntimeconfig.cache
