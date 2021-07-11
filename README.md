@@ -1,4 +1,4 @@
-Hey friends!
+# Hey friends!
 
 If you are like and you realized that C# and the whole .NET ecosystem is fun to work with or you are just getting your feet wet this is fast little series of articles for you to go through to get up and running with C#.
 
